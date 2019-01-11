@@ -1,0 +1,2 @@
+print ("Goodbye , world ! :0")
+print ("Goodbye , Ублюдки")
